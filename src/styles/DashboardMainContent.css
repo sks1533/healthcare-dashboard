@@ -1,0 +1,20 @@
+.dashboard-main {
+    padding: 24px 36px;
+    background-color: #f6f9ff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  
+  .middle-section {
+    display: flex;
+    gap: 24px;
+  }
+  
+  .bottom-section {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  
